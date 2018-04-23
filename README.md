@@ -1,4 +1,3 @@
 # OcclusionInAR
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZUZNooDo4eU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
