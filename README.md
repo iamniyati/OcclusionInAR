@@ -5,3 +5,4 @@
 ![alt text](OcclusionInAR/Poster.png " ")
 
 
+![Screenshot](Poster.png)
